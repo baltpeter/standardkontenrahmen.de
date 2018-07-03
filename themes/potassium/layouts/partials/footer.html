@@ -1,0 +1,35 @@
+      <footer class="footer">
+        <ul class="footer-links">
+          <!-- <li>
+            <a href="{{ .Site.RSSLink }}" type="application/rss+xml" target="_blank"><i class="fa fa-rss"></i> {{ i18n "footerRSS" }}</a>
+          </li> -->
+          <li>
+            <a href="https://github.com/mobybit/hugo-natrium-theme"><i class="fa fa-github"></i> Code</a>
+          </li>
+          <li>
+            <a href="{{ .Site.BaseURL }}site-notice">{{ i18n "siteNotice" }}</a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    {{ if eq .Type "skr" }}
+      <script type="text/html" id="hit-template">
+        <div class="hit">
+          <div class="hit-content">
+            <p class="hit-type">{{ `{{{_highlightResult.type.value}}}` }}</p>
+            <h2 class="hit-name">{{ `{{{_highlightResult.code.value}}}` }} {{ `{{{_highlightResult.name.value}}}` }}</h2>
+            <p class="hit-description">{{ `{{{_highlightResult.description.value}}}` }}</p>
+            <p class="hit-notes">{{ `{{{_highlightResult.notes.value}}}` }}</p>
+          </div>
+        </div>
+      </script>
+
+      <script src="{{ "js/instantsearch.min.js" | absURL }}"></script>
+      <script>
+        const slug = {{ .Slug }};
+      </script>
+      <script src="{{ "js/search.js" | absURL }}"></script>
+    {{ end }}
+</body>
+</html>

@@ -1,0 +1,29 @@
+baseURL = "https://www.standardkontenrahmen.de/"
+languageCode = "de-de"
+title = "Referenz für Standardkontenrahmen"
+theme = "potassium"
+canonifyURLs = true
+
+[permalinks]
+	post = "/:slug/"
+	page = "/:slug/"
+
+[[menu.main]]
+    name = "Startseite"
+    url = "/"
+	weight = 10
+
+[[menu.main]]
+    name = "SKR 03"
+    url = "/skr03"
+	weight = 20
+
+[[menu.main]]
+    name = "SKR 04"
+    url = "/skr04"
+	weight = 30
+
+[[menu.main]]
+    name = "SKR 49"
+    url = "/skr49"
+	weight = 40

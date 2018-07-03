@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+	<article class="article">
+		<h1 class="article-title">{{ .Title }}</h1>
+
+		<div class="article-content">
+			<input id="search-input" placeholder="Kontenrahmen durchsuchen…">
+			<div class="left-column">
+				<div id="types"></div>
+				<div id="hierarchical-categories"></div>
+			</div>
+			<div class="right-column">
+				<div id="hits"></div>
+				<div id="pagination"></div>
+			</div>
+		</div>
+	</article>
+
+</main>
+
+{{ partial "footer.html" . }}

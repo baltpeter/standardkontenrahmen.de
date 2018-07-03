@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "head.html" . }}
+    {{ if eq .Type "skr" }}
+    	<link rel="stylesheet" href="{{ "css/instantsearch.min.css" | absURL }}">
+      <link rel="stylesheet" href="{{ "css/styles.css" | absURL }}">
+    {{ end }}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        {{ partial "nav.html" . }}
+      </header>
