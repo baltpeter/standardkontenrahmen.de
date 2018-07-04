@@ -9,11 +9,6 @@ canonifyURLs = true
 	page = "/:slug/"
 
 [[menu.main]]
-    name = "Startseite"
-    url = "/"
-	weight = 10
-
-[[menu.main]]
     name = "SKR 03"
     url = "/skr03"
 	weight = 20

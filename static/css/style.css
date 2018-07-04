@@ -11,6 +11,24 @@
   margin-bottom: 30px;
 } 
 
+/* https://codepen.io/cshaw/pen/pyjbXe */
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+th {
+  background: #ccc;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background: #efefef;
+}
+
 /* INPUT */
 .ais-search-box {
   max-width: none;

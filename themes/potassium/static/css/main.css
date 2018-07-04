@@ -82,27 +82,18 @@ blockquote {
 }
 
 .nav {
-  max-width: 800px;
+  max-width: 1024px;
   margin: 0 auto;
   padding: 0 15px;
   font-family: 'Lato', sans-serif;
   text-align: right;
 }
 
-.nav-logo {
+.nav-logo, .nav-logo a {
   float: left;
-  margin-top: -11px;
-  transition: transform 150ms ease-out;
-}
-
-.nav-logo:hover {
-  transform: scale(1.1);
-}
-
-.nav-logo img {
-  display: block;
-  max-height: 40px;
-  width: auto;
+  font-size: 18px;
+  text-decoration: none;
+  color: #444;
 }
 
 .nav-links {
@@ -132,9 +123,9 @@ blockquote {
 
 .content {
   display: block;
-  min-height: calc(100vh - 60px);
+  min-height: calc(100vh - 200px);
   max-width: 1024px;
-  margin: 60px auto 80px;
+  margin: 60px auto 20px;
   padding: 0 15px;
   font-size: 16px;
   line-height: 1.7;
@@ -457,10 +448,6 @@ blockquote {
 
   .header {
     padding: 25px 0;
-  }
-
-  .nav-logo {
-    margin-top: -13px;
   }
 
   .nav-logo img {
