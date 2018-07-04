@@ -266,17 +266,6 @@ p.hit-type {
   border-color: #333;
 }
 
-.ais-root__collapsible .ais-header h5:before {
-  display: inline-block;
-  font: normal normal normal 16px/1 FontAwesome;
-  content: "\f106";
-  float: right;
-}
-
-.ais-root__collapsible.ais-root__collapsed .ais-header h5:before {
-  content: "\f107";
-}
-
 .ais-refinement-list--label,
 .ais-hierarchical-menu--list .facet-item,
 .ais-menu--link,
@@ -293,8 +282,7 @@ p.hit-type {
 }
 .ais-hierarchical-menu--link:before {
   display: inline-block;
-  font: normal normal normal 14px/1 FontAwesome;
-  content: "\f105";
+  content: "›";
   padding: 0 5px 0 0;
 }
 
@@ -480,24 +468,6 @@ a.clear-all:hover {
 .ais-show-more:hover,
 .ais-show-more:focus {
   opacity: 1;
-}
-.ais-show-more:before {
-  font-family: FontAwesome;
-  font-style: inherit;
-  font-weight: inherit;
-  text-decoration: inherit;
-  display: inline-block;
-  position: relative;
-  content: '';
-  margin: 0 5px 0 0;
-}
-
-.ais-show-more__inactive:before {
-  content: "\f0fe";
-}
-
-.ais-show-more__active:before {
-  content: "\f146";
 }
 
 /* Active filters */

@@ -32,7 +32,6 @@ search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#types',
     attributeName: 'type',
-    showMore: true,
     collapsible: true,
     sortBy: ['count:desc', 'name:asc'],
     templates: {
