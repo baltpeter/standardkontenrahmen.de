@@ -1,9 +1,9 @@
 ---
 title: "Datenschutz"
-date: 2018-07-04T01:27:30+02:00
+date: 2020-08-27T21:21:02+02:00
 ---
 
-Unsere Datenschutzerklärung wurde zuletzt am 04. Juli 2018 geändert.
+Unsere Datenschutzerklärung wurde zuletzt am 27. August 2020 geändert.
 
 ## Allgemeine Hinweise
 
@@ -37,7 +37,7 @@ Falls Du irgendwelche Fragen zu unserer Datenschutzerklärung hast, der Meinung 
 
 ### Do Not Track
 
-Wir respektieren die [Do Not Track (DNT)-Einstellung](https://www.eff.org/issues/do-not-track), die Du in Deinem Browser setzen kannst. Wenn Du diese aktiviert hast, deaktivieren wir sämtliche im Abschnitt „Webanalytik“ aufgeführten Trackingmaßnahmen.
+Wir respektieren die [Do Not Track (DNT)-Einstellung](https://www.eff.org/issues/do-not-track), die Du in Deinem Browser setzen kannst. Momentan setzen wir ohnehin keinerlei Tracking ein, sollten wir dies jedoch in der Zukunft tun, werden wir es komplett deaktivieren, falls Du DNT gesetzt hast.
 
 Darüber hinaus empfehlen wir Dir die Installation von [Privacy Badger](https://www.eff.org/privacybadger), einer kostenlosen Open Source-Browser-Erweiterung, welche die DNT-Einstellung für Dich setzt und Webseiten, die sich nicht daran halten, automatisch sperrt.
 
@@ -59,15 +59,6 @@ Wenn Du unsere Webseite aufrufst, baut Dein Browser automatisch eine Verbindung 
 - Betroffene Daten: die konkrete Unterseite, die Du besucht hast, das Datum und die Uhrzeit Deines Zugriffs, die Herkunft Deiner Anfrage (der sogenannte „Referrer“), Informationen zu Deinem Browser und Betriebssystem (der sogenannte „User-Agent-String“) und Deine IP-Adresse
 - Rechtsgrundlage: Die Speicherung erfolgt auf Grundlage Netlifys berechtigten Interesses an der Verbesserung der Stabilität und Funktionalität ihrer Server im Sinne des Art. 6 Abs. 1 lit. f DSGVO.
 - Dauer der Speicherung: 30 Tage
-
-#### Webanalytik
-Wir setzen eine Instanz der Open Source-Software [Matomo](https://matomo.org/) (früher Piwik) auf unserem Server `analytics.baltpeter.io` ein, um Besuche unserer Webseite zu protokollieren und auszuwerten. Die gespeicherten Daten pseudonymisieren wir dabei soweit wie möglich, um keine Verbindung zu Personen zu erlauben.
-
-Die Bereitstellung dieser Daten ist vollkommen freiwillig für Dich. Eine Nichtbereitstellung hat keinerlei Einfluss auf Deine Benutzung unserer Webseite. Wenn Du in Deinem Browser den [Do Not Track-Header](https://www.eff.org/issues/do-not-track) aktiviert hast, wird keiner Deiner Besuche protokolliert, nicht einmal pseudonymisiert. Ansonsten kannst Du das Tracking auch jederzeit [hier](https://analytics.baltpeter.io/index.php?module=CoreAdminHome&action=optOut&language=de) spezifisch für unseren Server deaktivieren.
-
-- Betroffene Daten: Matomo legt pseudonymisierte Nutzungsprofile an. Diese enthalten Datum und Uhrzeit Deiner Besuche, die Unterseiten, die Du besucht hast, Informationen zu Deinem Browser, Betriebssystem und Deiner Bildschirmauflösung, die ersten zwei Bytes Deiner IP-Adresse, die Dauer Deines Besuchs und die Links, die Du angeklickt hast. Wenn Du das Tracking wie oben beschrieben deaktivierst, speichern wir einen Cookie in Deinem Browser, damit wir diese Einstellung auch für spätere Besuche beibehalten können.
-- Rechtsgrundlage: Die Speicherung und Auswertung dieser Daten beruht auf unserem berechtigten Interesse, statistisch auszuwerten, welche Inhalte unserer Webseite Anklang bei Benutzer_innen finden im Sinne des Art. 6 Abs. 1 lit. f DSGVO. Dadurch können wir entscheiden, welche Bereiche unserer Webseite interessant für Dich sind und ob wir diese weiter ausbauen sollten.
-- Dauer der Speicherung: 180 Tage
 
 ### Informationen, die Du uns zur Verfügung stellst
 
