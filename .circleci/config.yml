@@ -1,0 +1,26 @@
+version: 2.1
+
+orbs:
+  hugo: circleci/hugo@1.2.2
+
+jobs:
+  build_and_deploy:
+    docker:
+      - image: cimg/node:14.17
+    steps:
+      - checkout
+      - hugo/install:
+          version: "0.83.1"
+      - run:
+          command: |
+            sudo npm i -g dattel-client
+            hugo
+            dattel deploy
+
+workflows:
+  build_and_deploy:
+    jobs:
+      - build_and_deploy:
+          filters:
+            branches:
+              only: master

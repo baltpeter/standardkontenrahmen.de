@@ -3,7 +3,7 @@ title: "Datenschutz"
 date: 2020-08-27T21:21:02+02:00
 ---
 
-Unsere Datenschutzerklärung wurde zuletzt am 27. August 2020 geändert.
+Unsere Datenschutzerklärung wurde zuletzt am 31. Mai 2021 geändert.
 
 ## Allgemeine Hinweise
 
@@ -54,11 +54,13 @@ In diesem Abschnitt möchten wir Dir genau erklären, unter welchen Umständen w
 ### Informationen, die wir automatisch sammeln
 
 #### Server-Logdateien
-Wenn Du unsere Webseite aufrufst, baut Dein Browser automatisch eine Verbindung zu einem Server von Netlify, 610 22nd Street, Suite 315, San Francisco CA 94107, USA auf. Dieser speichert dabei einige Informationen über die Verbindung in einer sogenannten Logdatei. Wir haben keinen Zugriff auf diese Logdateien. Mehr Informationen dazu, wie Netlify Deine Daten verarbeitet, kannst Du [deren Datenschutzerklärung](https://www.netlify.com/privacy/) entnehmen.
+Wenn Du eine unserer Webseiten aufrufst, baut Dein Browser eine Verbindung zu einem oder mehreren unserer Server auf. Wir haben alle unsere Server so konfiguriert, dass sie keine Logdateien speichern, zur Bearbeitung Deiner Anfrage müssen aber gewisse personenbezogene Daten kurzzeitig im Arbeitsspeicher verarbeitet werden.
 
-- Betroffene Daten: die konkrete Unterseite, die Du besucht hast, das Datum und die Uhrzeit Deines Zugriffs, die Herkunft Deiner Anfrage (der sogenannte „Referrer“), Informationen zu Deinem Browser und Betriebssystem (der sogenannte „User-Agent-String“) und Deine IP-Adresse
-- Rechtsgrundlage: Die Speicherung erfolgt auf Grundlage Netlifys berechtigten Interesses an der Verbesserung der Stabilität und Funktionalität ihrer Server im Sinne des Art. 6 Abs. 1 lit. f DSGVO.
-- Dauer der Speicherung: 30 Tage
+- Betroffene Daten: die konkrete Unterseite, die Du besucht hast, das Datum und die Uhrzeit Deines Zugriffs, die Daten die Dein Browser mit der Anfrage schickt (die sogenannten „Header“), darunter Informationen zu Deinem Browser und Betriebssystem (der sogenannte „User-Agent-String“), und Deine IP-Adresse
+- Rechtsgrundlage: Die flüchtige Verarbeitung dieser Daten ist erforderlich, damit wir Dir unsere Webseite bereitstellen können, sie erfolgt auf Basis des Art. 6 Abs. 1 lit. b DSGVO.
+- Dauer der Speicherung: keine
+- Weitergabe der Daten: Unsere Server betreiben wir bei den folgenden Unternehmen. Es handelt sich dabei ausschließlich um Unternehmen aus der EU, die wir sorgfältig nach unseren hohen Datenschutzansprüchen ausgewählt haben.
+    * Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland ([Datenschutzerklärung](https://www.hetzner.de/rechtliches/datenschutz))
 
 ### Informationen, die Du uns zur Verfügung stellst
 
