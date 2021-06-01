@@ -53,7 +53,7 @@ In diesem Abschnitt möchten wir Dir genau erklären, unter welchen Umständen w
 
 ### Informationen, die wir automatisch sammeln
 
-#### Server-Logdateien
+#### Server-Verbindungsdaten
 Wenn Du eine unserer Webseiten aufrufst, baut Dein Browser eine Verbindung zu einem oder mehreren unserer Server auf. Wir haben alle unsere Server so konfiguriert, dass sie keine Logdateien speichern, zur Bearbeitung Deiner Anfrage müssen aber gewisse personenbezogene Daten kurzzeitig im Arbeitsspeicher verarbeitet werden.
 
 - Betroffene Daten: die konkrete Unterseite, die Du besucht hast, das Datum und die Uhrzeit Deines Zugriffs, die Daten die Dein Browser mit der Anfrage schickt (die sogenannten „Header“), darunter Informationen zu Deinem Browser und Betriebssystem (der sogenannte „User-Agent-String“), und Deine IP-Adresse
@@ -61,6 +61,7 @@ Wenn Du eine unserer Webseiten aufrufst, baut Dein Browser eine Verbindung zu ei
 - Dauer der Speicherung: keine
 - Weitergabe der Daten: Unsere Server betreiben wir bei den folgenden Unternehmen. Es handelt sich dabei ausschließlich um Unternehmen aus der EU, die wir sorgfältig nach unseren hohen Datenschutzansprüchen ausgewählt haben.
     * Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland ([Datenschutzerklärung](https://www.hetzner.de/rechtliches/datenschutz))
+    * Uberspace, Kaiserstraße 15, 55116 Mainz, Deutschland ([Datenschutzerklärung](https://www.datenanfragen.de/company/uberspace/))
 
 ### Informationen, die Du uns zur Verfügung stellst
 
@@ -72,16 +73,6 @@ Zur Kontaktaufnahme musst Du selbstverständlich keinerlei Daten angeben, von da
 - Betroffene Daten: die Daten, die Du in Deiner Nachricht angibst
 - Rechtsgrundlage: Die Speicherung beruht auf unserem berechtigten Interesse an der Beantwortung Deiner Nachricht im Sinne des Art. 6 Abs. 1 lit. f DSGVO.
 - Dauer der Speicherung: solange gesetzliche Aufbewahrungspflichten vorliegen (vgl. dazu insb. § 147 Abs. 3 AO)
-
-## Externe Dienste
-
-Um unsere Webseiten interessanter und lebendiger für Dich zu machen, haben wir einige externe Dienste eingebunden.
-
-### Algolia
-
-Die Suchfunktionen, die wir Dir auf unserer Webseite anbieten, werden technisch von der Algolia, Inc., 589 Howard Street, Suite 5, San Francisco, CA 94105, USA (oder deren Tochterunternehmen Algolia SAS, 55 Rue d'Amsterdam, 75008 Paris, Frankreich und Algolia Ltd., 1 Primrose St, London, EC2A 2EX, UK) bereitgestellt. Dazu müssen die Suchbegriffe, die Du eingibst, an Algolia übermittelt werden. Algolia speichert jedes Zeichen, das Du in die Suchleiste eingibst in Verbindung mit Deiner IP-Adresse und den Daten, die Dein Browser an Algolia sendet (die sogenannten „Header“). Diese Daten werden für die letzten 1000 Suchanfragen (aller Nutzer_innen unserer Webseiten) gespeichert und anschließend gelöscht.
-
-Weitere Informationen dazu, wie die Daten verarbeitet werden, findest du in [der Datenschutzerklärung von Algolia](https://www.algolia.com/policies/privacy).
 
 ## Deine Rechte
 

@@ -9,17 +9,7 @@
 
     </div>
     {{ if eq .Type "skr" }}
-      <script type="text/html" id="hit-template">
-        <div class="hit">
-          <div class="hit-content">
-            <p class="hit-type">{{ `{{{_highlightResult.type.value}}}` }}</p>
-            <h2 class="hit-name">{{ `{{{_highlightResult.code.value}}}` }} {{ `{{{_highlightResult.name.value}}}` }}</h2>
-            <p class="hit-description">{{ `{{{_highlightResult.description.value}}}` }}</p>
-            <p class="hit-notes">{{ `{{{_highlightResult.notes.value}}}` }}</p>
-          </div>
-        </div>
-      </script>
-
+      <script src="{{ "js/instant-typesense.min.js" | absURL }}"></script>
       <script src="{{ "js/instantsearch.min.js" | absURL }}"></script>
       <script>
         const slug = {{ .Slug }};
