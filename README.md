@@ -2,7 +2,7 @@
 
 > Simple static website that provides a comprehensive Typesense-powered search for “Standardkontenrahmen” (account templates)
 
-![Searching for how to post a particular expense with SKR 49](https://cdn.baltpeter.io/img/screenshot-standardkontenrahmen.png)
+![Searching for how to post a particular expense with SKR 49](https://static.bn.al/img/screenshot-standardkontenrahmen.png)
 
 This repository contains the source for the [standardkontenrahmen.de](https://www.standardkontenrahmen.de) website. The website acts as a reference for Standardkontenrahmen (accounting templates), offering a [Typesense](https://typesense.org/)-powered search engine for *SKR 03*, *SKR 04* and *SKR 49*. As account templates tend to be very comprehensive, it can be difficult to find the correct account. This project aims to make that process easier.
 
