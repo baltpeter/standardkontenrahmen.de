@@ -3,7 +3,7 @@ title: "Datenschutz"
 date: 2020-08-27T21:21:02+02:00
 ---
 
-Unsere Datenschutzerklärung wurde zuletzt am 31. Mai 2021 geändert.
+Unsere Datenschutzerklärung wurde zuletzt am 12. Juli 2026 geändert.
 
 ## Allgemeine Hinweise
 
@@ -29,17 +29,9 @@ Schreinerweg 6
 Deutschland
 
 Telefon: +49 531 615 4 710  
-Telefax: +49 531 615 4 288  
 E-Mail: [datenschutz@gabriele-altpeter.info](mailto:datenschutz@gabriele-altpeter.info) ([PGP-Key](https://gabriele-altpeter.info/pgp-key-privacy.asc) `BCA8 A5F2 2F7F D05A ED67 EE2B FE5B E03D 78C1 CF0F`)  
-Web: [gabriele-altpeter.info](https://gabriele-altpeter.info)
 
 Falls Du irgendwelche Fragen zu unserer Datenschutzerklärung hast, der Meinung bist, dass wir gegen Datenschutzrecht verstoßen oder Deine Rechte geltend machen möchtest, kannst Du Dich gerne jederzeit an uns wenden.
-
-### Do Not Track
-
-Wir respektieren die [Do Not Track (DNT)-Einstellung](https://www.eff.org/issues/do-not-track), die Du in Deinem Browser setzen kannst. Momentan setzen wir ohnehin keinerlei Tracking ein, sollten wir dies jedoch in der Zukunft tun, werden wir es komplett deaktivieren, falls Du DNT gesetzt hast.
-
-Darüber hinaus empfehlen wir Dir die Installation von [Privacy Badger](https://www.eff.org/privacybadger), einer kostenlosen Open Source-Browser-Erweiterung, welche die DNT-Einstellung für Dich setzt und Webseiten, die sich nicht daran halten, automatisch sperrt.
 
 ### Profiling
 
@@ -59,9 +51,7 @@ Wenn Du eine unserer Webseiten aufrufst, baut Dein Browser eine Verbindung zu ei
 - Betroffene Daten: die konkrete Unterseite, die Du besucht hast, das Datum und die Uhrzeit Deines Zugriffs, die Daten die Dein Browser mit der Anfrage schickt (die sogenannten „Header“), darunter Informationen zu Deinem Browser und Betriebssystem (der sogenannte „User-Agent-String“), und Deine IP-Adresse
 - Rechtsgrundlage: Die flüchtige Verarbeitung dieser Daten ist erforderlich, damit wir Dir unsere Webseite bereitstellen können, sie erfolgt auf Basis des Art. 6 Abs. 1 lit. b DSGVO.
 - Dauer der Speicherung: keine
-- Weitergabe der Daten: Unsere Server betreiben wir bei den folgenden Unternehmen. Es handelt sich dabei ausschließlich um Unternehmen aus der EU, die wir sorgfältig nach unseren hohen Datenschutzansprüchen ausgewählt haben.
-    * Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland ([Datenschutzerklärung](https://www.hetzner.de/rechtliches/datenschutz))
-    * Uberspace, Kaiserstraße 15, 55116 Mainz, Deutschland ([Datenschutzerklärung](https://www.datenanfragen.de/company/uberspace/))
+- Weitergabe der Daten: keine
 
 ### Informationen, die Du uns zur Verfügung stellst
 
@@ -130,7 +120,7 @@ Nach Art. 77 DSGVO hast Du unbeschadet eines anderweitigen verwaltungsrechtliche
 
 Für uns ist die folgende Aufsichtsbehörde zuständig:
 
-Die Landesbeauftragte für den Datenschutz Niedersachsen  
+Der Landesbeauftragte für den Datenschutz Niedersachsen  
 Prinzenstraße 5  
 30159 Hannover  
 Deutschland
